@@ -15,18 +15,21 @@ a {
 }
 .color {
     color: #171717;
+    margin-left: 100px;
 }
 .blocksize {
     width: 463px;
     height: 385px;
     margin-top:98px ;
     margin-right: 137px;
+    margin-left: 100px;
 }
 .blocksize2 {
     height: 99;
     width: 463px;
     margin-top: 22px;
     margin-right: 137px;
+    margin-left: 100px;
 }
 .width {
     max-width: 1475px;
