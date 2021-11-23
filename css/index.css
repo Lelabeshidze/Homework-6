@@ -10,3 +10,21 @@ ol, ul {
 a {
     text-decoration: none;
 }
+.aboutus {
+    display: inline-block;
+}
+.color {
+    color: #171717;
+}
+.blocksize {
+    width: 463px;
+    height: 385px;
+    margin-top:98px ;
+    margin-right: 137px;
+}
+.blocksize2 {
+    height: 99;
+    width: 463px;
+    margin-top: 22px;
+    margin-right: 137px;
+}
