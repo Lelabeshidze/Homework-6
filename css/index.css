@@ -38,8 +38,8 @@ a {
     display: block;
 }
 .space {
-    width: 707px;
-    height: 707px;
+    width: auto;
+    height: auto;
     border-radius: 15px;
     background-color:#0A22F4 ;
     vertical-align: middle;
