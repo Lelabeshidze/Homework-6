@@ -37,7 +37,7 @@ a {
     margin-left: auto;
 }
 .space {
-    width: 707px;
-    height: 707px;
+    width: auto;
+    height: auto;
     background-color:#0A22F4 ;
 }
