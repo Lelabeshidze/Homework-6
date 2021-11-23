@@ -28,3 +28,8 @@ a {
     margin-top: 22px;
     margin-right: 137px;
 }
+.width {
+    max-width: 1475px;
+    margin-right: auto;
+    margin-left: auto;
+}
