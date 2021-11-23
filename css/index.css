@@ -38,8 +38,9 @@ a {
     display: block;
 }
 .space {
-    width: auto;
-    height: auto;
+    width: 707px;
+    height: 707px;
+    border-radius: 15px;
     background-color:#0A22F4 ;
     vertical-align: middle;
     margin-bottom: 384px;
